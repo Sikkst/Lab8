@@ -1,0 +1,11 @@
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\bin\Debug\net8.0\TaskScheduler.deps.json
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\bin\Debug\net8.0\TaskScheduler.dll
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\bin\Debug\net8.0\TaskScheduler.pdb
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfoInputs.cache
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfo.cs
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\TaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\TaskScheduler.dll
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\refint\TaskScheduler.dll
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\TaskScheduler.pdb
+C:\Users\rkrav\source\repos\OopLab8\TaskScheduler\obj\Debug\net8.0\ref\TaskScheduler.dll
